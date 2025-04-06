@@ -1,0 +1,15 @@
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+scipy==1.10.1
+plotly==5.15.0
+folium==0.14.0
+dash==2.11.1
+dash-bootstrap-components==1.4.1
+scikit-learn==1.2.2
+joblib==1.2.0
+ipywidgets==8.0.6
+nbformat==5.9.0
+openpyxl==3.1.2
+statsmodels==0.14.0 
