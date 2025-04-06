@@ -1,6 +1,6 @@
 # Online Foods Exploratory Data Analysis
 
-This project performs a comprehensive exploratory data analysis (EDA) on the Online Foods dataset to understand patterns and relationships in online food service usage.
+This project performs a comprehensive exploratory data analysis (EDA) on the Online Foods dataset to understand patterns and relationships in online food service usage. All files are in Online Foods folder.
 
 ## Dataset
 
